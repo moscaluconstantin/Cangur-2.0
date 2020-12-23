@@ -110,7 +110,10 @@ namespace Caongur_2._0.Atributes
                     Pen p = new Pen(Color.Black, 2);
                     foreach (Line line in Lines)
                     {
-                         Gr.DrawLine(p, line.Start, line.End);
+                         if(line != null)
+                         {
+                              Gr.DrawLine(p, line.Start, line.End);
+                         }
                     }
                     character.Draw(Gr);
                }
