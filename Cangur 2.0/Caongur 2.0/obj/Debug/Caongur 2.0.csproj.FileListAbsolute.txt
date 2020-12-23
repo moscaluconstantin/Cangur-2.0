@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\bin\Debug\Caongur 2.0.exe.config
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\bin\Debug\Caongur 2.0.exe
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\bin\Debug\Caongur 2.0.pdb
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\obj\Debug\Caongur 2.0.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\obj\Debug\Caongur_2._0.Form1.resources
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\obj\Debug\Caongur_2._0.Properties.Resources.resources
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\obj\Debug\Caongur 2.0.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\obj\Debug\Caongur 2.0.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\obj\Debug\Caongur 2.0.exe
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\obj\Debug\Caongur 2.0.pdb
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\User\Desktop\Caongur 2.0\Caongur 2.0\obj\Debug\Caongur 2.0.csproj.CopyComplete
